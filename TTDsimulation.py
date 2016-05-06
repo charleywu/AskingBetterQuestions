@@ -87,12 +87,12 @@ def simulate(iterations):
 		if equivalencyCheck==True:
 			continue
 		else:
-			equivalent = False
+			return False
 	return equivalent
 
 """Running the simulation"""
 
-iterations = 1000000
+iterations = 10000000
 
 results = simulate(iterations)
 

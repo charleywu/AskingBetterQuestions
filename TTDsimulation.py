@@ -1,6 +1,6 @@
 """
 Supplementary to:
-Wu, CM., Meder, B., Nelson, JD.,Filimon, F. (2016) Asking Better Questions: How presentation formats influence information search
+Wu, CM., Meder, B., Filimon, F., Nelson, JD. (2016) Asking Better Questions: How presentation formats influence information search
 @author: Charley M. Wu cwu@mpib-berlin.mpg.de
 """
 

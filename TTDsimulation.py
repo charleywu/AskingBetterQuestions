@@ -1,6 +1,8 @@
 """
+Simulates 10 million search environments, to test for equivalency of the Take The Difference Heuristic to Probability Gain
+
 Supplementary to:
-Wu, CM., Meder, B., Filimon, F., Nelson, JD. (2016) Asking Better Questions: How presentation formats influence information search
+Wu, C. M., Meder, B., Filimon, F., Nelson, J. D. (2016) Asking Better Questions: How presentation formats influence information search
 @author: Charley M. Wu cwu@mpib-berlin.mpg.de
 """
 
